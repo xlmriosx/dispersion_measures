@@ -1,9 +1,9 @@
 # Dispersion measures
 
-# Calculate standar deviation 
+## Calculate standar deviation 
 
-# Calculate range of dataset
+## Calculate range of dataset
 
-# Calculate quartils
+## Calculate quartils
 
 Limits for detection of outliers (find data distribute simetricly)
